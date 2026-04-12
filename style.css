@@ -402,6 +402,62 @@ footer {
   .gallery-full { columns: 2; }
 }
 
+/* TIMELINE */
+.timeline {
+  position: relative;
+  padding-left: 2rem;
+  margin: 2rem 0;
+}
+
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: var(--color-border);
+}
+
+.timeline-item {
+  position: relative;
+  padding-bottom: 1.5rem;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -2.35rem;
+  top: 0.35rem;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--color-text);
+}
+
+.timeline-item.future::before {
+  background: none;
+  border: 1px solid var(--color-gray);
+}
+
+.timeline-year {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-gray);
+  margin-bottom: 0.25rem;
+}
+
+.timeline-event {
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.timeline-event strong {
+  font-weight: normal;
+  font-style: italic;
+}
+
 /* PRINT */
 @media print {
   nav { display: none; }
