@@ -192,7 +192,7 @@ Huldufugl has been funded by Creative Europe MEDIA, the Icelandic Film Centre, a
 
 ### Owen Hindley (100 words)
 
-Owen Hindley is a British digital artist and creative technologist based in Reykjavik. He works with software, sound, and electronics to create VR films, interactive installations, live visuals, and performance technology. He co-founded Huldufugl in 2015 and directed Fallax, Iceland's first narrative VR film (Immersive Award, Imagine Film Festival). Previous work includes Kassinn (4 international awards), Lambchild Superstar (VR music experience with OK Go / Oculus Studios), Horizons VR (Google Daydream launch title), and Google Web Lab (London Science Museum). He lectures at the Icelandic University of the Arts. Tools: TouchDesigner, Unity, Houdini, Max/MSP.
+Owen Hindley is a British digital artist and creative technologist based in Reykjavik. He works with software, sound, and electronics to create VR films, interactive installations, live visuals, and performance technology. He co-founded Huldufugl in 2015 and directed Fallax, Iceland's first narrative VR film (Immersive Award, Imagine Film Festival). Previous work includes Kassinn (4 international awards), Lambchild Superstar (VR music experience with OK Go / Oculus Studios), Horizons VR (Google Daydream launch title), and Google Web Lab (London Science Museum, with B-Reel). He was previously Creative Technologist at B-Reel London (2012-2014). He is also a musician — bass player in Dodmen, a London-based psychedelic rock band whose album Azimuth (2015) is on Spotify. He lectures at the Icelandic University of the Arts. Tools: TouchDesigner, Unity, Houdini, Max/MSP.
 
 ### Nanna Gunnars (100 words)
 
